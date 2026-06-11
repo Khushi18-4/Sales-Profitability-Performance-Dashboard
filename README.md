@@ -11,8 +11,8 @@ This repository contains the end-to-end Sales & Profitability Business Intellige
 * **Power BI:** Building interactive executive dashboard visualizations, cross-filtering, and timeline slicers.
 
 ## 📊 Dashboard Preview
-*(Replace the filename below with your exact dashboard image name so it shows up on the page)*
-![Dashboard Screenshot]("C:\Users\Khushi\Desktop\Task 1\dashboard.png.png")
+<img width="1304" height="737" alt="dashboard png" src="https://github.com/user-attachments/assets/10e01afb-4a95-4eea-8659-bd7a1af8abd3" />
+
 
 ## 💡 Key Business Answers
 * **Highest Sales Region:** West Region emerges as the absolute market leader in revenue generation.
