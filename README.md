@@ -12,7 +12,7 @@ This repository contains the end-to-end Sales & Profitability Business Intellige
 
 ## 📊 Dashboard Preview
 *(Replace the filename below with your exact dashboard image name so it shows up on the page)*
-![Dashboard Screenshot](your_screenshot_name.png)
+![Dashboard Screenshot]("C:\Users\Khushi\Desktop\Task 1\dashboard.png.png")
 
 ## 💡 Key Business Answers
 * **Highest Sales Region:** West Region emerges as the absolute market leader in revenue generation.
